@@ -1,0 +1,70 @@
+{
+  "pagination": {
+    "currentPage": 1,
+    "pageCount": 2
+  },
+  "products": [
+    {
+      "productId": "PR-17924060181900044KOYULACIVERT",
+      "name": "U.S. Polo Assn. Erkek Tişört 1792406",
+      "image":   "https://img-ozdilekteyim.mncdn.com/mnresize/337/506/medias/8683857219553.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MjA3ODQzfGltYWdlL2pwZWd8YUdObUwyaGxNeTh4TURNMU9UazVNamN4TXpJME5nfDM0M2VjODNlODgyOGM0NzFkZjg3YzgzN2U2OWY4YWViMjFmNWQ1YjVmZDk4MDkwZTU2ZTQ1MzYxOGVjYmI4YTc"
+      ,
+      "price": "499,95 TL"
+    },
+    {
+      "productId": "PR-17924060181900044KOYUKIRMIZI",
+      "name": "U.S. Polo Assn. Erkek Tişört 1792406",
+      "image":"https://img-ozdilekteyim.mncdn.com/mnresize/337/506/medias/8683857153161.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTgzNjE2fGltYWdlL2pwZWd8YUdVekwyZ3dOUzh4TURNME5qSXpOREF4T1RnM01BfGVmZGU4YThiNDZiMmNiZGYwNGZmOTU2YzM1NjBiNDNmZjg1NjI2YjhjNWQ3OWYzZjQ3ZjU2NmE2NWY3YzljNWI",
+      "price": "499,95 TL"
+    },
+    {
+      "productId": "PR-17924060181900044KOYUYESIL",
+      "name": "U.S. Polo Assn. Erkek Tişört 1792406",
+      "image":
+        "https://img-ozdilekteyim.mncdn.com/mnresize/337/506/medias/8683857217801.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NDE0NTEyfGltYWdlL2pwZWd8YUdWakwyaGlNeTh4TURNME5qSXpOell5TkRNMU1BfDMxNjQzMThhMzE5YjI1MmQzNDVhZmY1NTljNWRmMTI3NTg1Mjg4OWVmYWQ1MDY0YTNjZDdjZDUxMzdmZDViN2U",
+      "price": "499,95 TL"
+    },
+    {
+      "productId": "PR-H575040002000045SIYAH",
+      "name": "adidas Erkek Şort H57504",
+      "image":"https://img-ozdilekteyim.mncdn.com/mnresize/337/506/medias/4065418757560.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NjA0NjQ5fGltYWdlL2pwZWd8YUdSbUwyZ3haUzg1T0RFMU5qZzBNRGczT0RNNHwwMDNlODI2ZGEzOWExMTk5NWRiMzVkYjY1MTNmMzEyNzRjMTBmNDU4NWE5NTg5ZDcwNDhiYzdmY2I1MGIyNDEx",
+      "price": "649,00 TL"
+    },
+    {
+      "productId": "PR-HS36190002000045SIYAH",
+      "name": "adidas Erkek Eşofman Altı HS3619",
+      "image":"https://img-ozdilekteyim.mncdn.com/mnresize/337/506/medias/4066745634753.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NzMxMDc0fGltYWdlL2pwZWd8YURobUwyZzRaQzg1T0RFMU9ESTBPVGt3TWpNNHwyN2YyNTI2OTJhYzY3ZTI2ZTU1ODM3ZTk0Y2RhOGY5Mjc4Mjk5MmU0ODVkOGViN2QzNDk0MWVkMDQxOWM5NDEz",
+      "price":"1.699,00 TL"
+    },
+    {
+      "productId": "PR-17924060181900044ACIKHAKI",
+      "name": "U.S. Polo Assn. Erkek Tişört 1792406",
+      "image": "https://img-ozdilekteyim.mncdn.com/mnresize/337/506/medias/8683857219706.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NDE1MTQwfGltYWdlL2pwZWd8YURaaEwyaGlOUzh4TURNME5qSTJNVGt3TlRRek9BfGM3NmE3YjkyOWQ4OWVkMTg2MDUzMTk5OGE3ZjBhMDYzNjVhMTM5ZTg4YjBhNTZjOGMxNTczNWIyMjA1ZDFkNWE",
+      "price": "424,96 TL"
+    },
+    {
+      "productId": "PR-M00351333040113200045SIYAH",
+      "name": "Mavi Marcus Erkek Kot Pantolon 0035133304",
+      "image":"https://img-ozdilekteyim.mncdn.com/mnresize/337/506/medias/8682454473764.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MjcxOTEzfGltYWdlL2pwZWd8YURBekwyZzNaaTg1TURZd05ETXlNalE0T0RZeXwzZjk3NWVmYTJjMmU3MjMyMzkyNzk5MmZmMzU2OGQ0Njc1ODRmYzIxZjdmY2Y1OWM3MmYzYzY5NDFmMjQ4Y2Fm",
+      "price": "1.199,99 TL"
+    },
+    {
+      "productId": "PR-586732010145300045SIYAH",
+      "name": "Puma Erkek Eşofman Altı 58673201",
+      "image": "https://img-ozdilekteyim.mncdn.com/mnresize/337/506/medias/4063697484573.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NTgwMjc2fGltYWdlL2pwZWd8YURjeUwyZzJNaTh4TURFM05ESXlNell4TXprNE1nfGQ3OTg0MzM2MDkyNDE1YTExY2MyNmFiYTk4MWUwMGE1NTliZGQ3NjUzMzIxN2ZkMjQyZWQwNzNjNGU2YWYxNzk",
+      "price": "1.399,99 TL"
+    },
+    {
+      "productId": "PR-M067153-6020113200045BEYAZ",
+      "name": "Mavi Erkek Tişört M067153-602",
+      "image": "https://img-ozdilekteyim.mncdn.com/mnresize/337/506/medias/8684249277427.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8OTk3MDg2fGltYWdlL2pwZWd8YURrekwyaG1OeTh4TURFMk5EZzJOek0yTmprME1nfDVkMmI3NGQ5ZTQ1ZjIzMjNiOWZmZWE3ZjRlNGI3YTAwOTZmNjZhNzQzYWNhNDRkOTFhN2M4N2RkNThjMGZhMjE",
+      "price": "299,99 TL"
+    },
+    {
+      "productId": "PR-M00422850950113200045DENIM",
+      "name": "Mavi Jake Erkek Kot Pantolon M0042285095",
+      "image":  "https://img-ozdilekteyim.mncdn.com/mnresize/337/506/medias/8684080422734.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTEzODIxNnxpbWFnZS9qcGVnfGFEVTJMMmhpTlM4eE1ERTBOakkxTWpRMU5UazJOZ3w0OTFkMWI4ZjljNDA5YTEwNjUwMjNmMWM0OTlmYzViNmFjYWVjNTVmZGNhYjMwNDhlMDMyMWQwYTcwYTVjZmI3",
+      "price":"1.299,99 TL"
+    }
+  ]
+}
