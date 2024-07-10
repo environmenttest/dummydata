@@ -1,4 +1,7 @@
 {
+  "code": 200,
+  "message": null,
+  "data": {
         "productId": "PR-IN93710002000044BEYAZ",
         "name": "adidas Futbol Topu IN9371",
         "image": "https://img-ozdilekteyim.mncdn.com/medias/4066766185814.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NTY5NTgxfGltYWdlL2pwZWd8YURVNEwyaGlNUzh4TURFME9ERXhOVEExTkRZeU1nfDdlYTQzY2I5ZDA4ZTA2MTI2NTQxYjM4MzI4ZmNkNjkyZmIzZjM3ZDNhNDY3NWU1OTIxMDlkNzQ0MGUwODcwNDA",
@@ -7,3 +10,4 @@
         "estimatedShipmentDate": "3 İş Gününde Kargoda",
         "priceUpdateDate": "18-04-2024"
       }
+}
