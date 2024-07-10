@@ -1,4 +1,7 @@
 {
+  "code": 200,
+  "message": null,
+  "data": {
         "productId": "PR-IK96590002000044SIYAH",
         "name": "adidas Yüzücü Gözlüğü IK9659",
         "image": "https://img-ozdilekteyim.mncdn.com/medias/4067886139701.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MjkxNzU2fGltYWdlL2pwZWd8YUdJMUwyZzVZaTh4TURFMk1EQTVPVE15T0RBek1BfDRmZGU0NGUzZDc1MWQwN2VkNzU3N2RmZjA5OTc4NjgxOTQ4MTU3MjdjZTFiOGJjZjUzZjVjOTcxZDBmNjY2MDM",
@@ -7,3 +10,4 @@
         "estimatedShipmentDate": "3 İş Gününde Kargoda",
         "priceUpdateDate": "28-12-2023"
       }
+}
