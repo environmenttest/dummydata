@@ -1,9 +1,13 @@
 {
-  "productId": "PR-IC04400002000043SIYAH",
-  "name": "adidas Erkek Sweatshirt IC0440",
-  "image": "https://img-ozdilekteyim.mncdn.com/mnresize/337/506/medias/4066745383750.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NzE1NjczfGltYWdlL2pwZWd8YURZekwyZ3dZUzg1T1Rnek5qQTVPVGsxTWprMHwyMDVhMjAwYTVmYWMwOTYyNGFiM2Y1OGU0ZmM2ODQ4MDgzNjYxNWQ0MjA4ZWMwMzU3OWFjNzZhMDczNTc2ZjNl",
-  "price": "1.699,00 TL",
-  "description": " <p><b>Materyal:</b> %70 Pamuk, %30 Geri Dönüştürülmüş Polyester</p><p><b>Tanımlama:</b> Adidas Erkek Sweatshirt</p>",
-  "estimatedShipmentDate": "3 İş Gününde Kargoda",
-  "priceUpdateDate": "11-08-2023"
+  "code": 200,
+  "message": null,
+  "data": {
+      "productId": "PR-IC04400002000043SIYAH",
+      "name": "adidas Erkek Sweatshirt IC0440",
+      "image": "https://img-ozdilekteyim.mncdn.com/mnresize/337/506/medias/4066745383750.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NzE1NjczfGltYWdlL2pwZWd8YURZekwyZ3dZUzg1T1Rnek5qQTVPVGsxTWprMHwyMDVhMjAwYTVmYWMwOTYyNGFiM2Y1OGU0ZmM2ODQ4MDgzNjYxNWQ0MjA4ZWMwMzU3OWFjNzZhMDczNTc2ZjNl",
+      "price": "1.699,00 TL",
+      "description": " <p><b>Materyal:</b> %70 Pamuk, %30 Geri Dönüştürülmüş Polyester</p><p><b>Tanımlama:</b> Adidas Erkek Sweatshirt</p>",
+      "estimatedShipmentDate": "3 İş Gününde Kargoda",
+      "priceUpdateDate": "11-08-2023"
+  }
 }
