@@ -1,4 +1,7 @@
 {
+  "code": 200,
+  "message": null,
+  "data": {
         "productId": "PR-IP16520002000044BEYAZ",
         "name": "adidas Futbol Topu IP1652",
         "image": "https://img-ozdilekteyim.mncdn.com/medias/4067886881860.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8Mzg4MDg3fGltYWdlL2pwZWd8YURRMUwyZ3lNQzh4TURNd01URTJNVFEzTWpBek1BfDYyMzczYzg3OWE4NDYxYWI0MWJhMDY2ODk1OWJmODk1NzU1MjgwN2EwYzZiZmE5MTA4MzY5MTlmYTI1MzViMmI",
@@ -7,3 +10,4 @@
         "estimatedShipmentDate": "3 İş Gününde Kargoda",
         "priceUpdateDate": "29-06-2024"
       }
+}
