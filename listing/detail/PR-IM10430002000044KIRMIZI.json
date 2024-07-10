@@ -1,4 +1,7 @@
 {
+  "code": 200,
+  "message": null,
+  "data": {
         "productId": "PR-IM10430002000044KIRMIZI",
         "name": "adidas Çocuk Bone IM1043",
         "image": "https://img-ozdilekteyim.mncdn.com/medias/4066763707965.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NTg3Mzc5fGltYWdlL2pwZWd8YURWbUwyaGlOQzh4TURFMk1EQXpOalF4TXpRM01BfDBmOTcyMDk5MGMwYjFlMTkzY2QwNTM2MTgzZTQ3ZjYyNWFmOTExZWQ0Zjc0ZDJhYTNlNmVjNjhmZjUwZTQ1NzQ",
@@ -7,3 +10,4 @@
         "estimatedShipmentDate": "3 İş Gününde Kargoda", 
         "priceUpdateDate": "18-04-2024"
       }
+} 
