@@ -1,4 +1,7 @@
 {
+  "code": 200,
+  "message": null,
+  "data": {
         "productId": "PR-IR98400002000044BEJ",
         "name": "adidas Sırt Çantası IR9840",
         "image": "https://img-ozdilekteyim.mncdn.com/medias/4067886143715.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTI2MDE1M3xpbWFnZS9qcGVnfGFHRm1MMmhqWWk4eE1ERTJNREV3TXpVNE56ZzNNQXw5ZTkwYWQwN2RiYzUyODFlZjhmYTJhMWIyYTE0NjgxNWUwNmEzODQ1YmYxNWU0NDQ5NmVmYTY5NTMwNzFjNTk0",
@@ -7,3 +10,4 @@
         "estimatedShipmentDate": "3 İş Gününde Kargoda",
         "priceUpdateDate": "29-06-2024"
       }
+}
