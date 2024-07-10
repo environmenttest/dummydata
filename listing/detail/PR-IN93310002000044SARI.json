@@ -1,4 +1,7 @@
 {
+  "code": 200,
+  "message": null,
+  "data": {
         "productId": "PR-IN93310002000044SARI",
         "name": "adidas Futbol Topu IN9331",
         "image": "https://img-ozdilekteyim.mncdn.com/medias/4067886889514.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTEyMDgyMXxpbWFnZS9qcGVnfGFERTNMMmhoTUM4eE1ERTFPVGswTXprM05EazBNZ3w5YzIyYTliZGViNDgzNmNlMGEwNzJhZTA5OWFjODY3ZDAwMTY0MzczYWYwOGJlZjE4YjgxNzkwNDQ4YWJjOWM0"
@@ -7,3 +10,4 @@
         "estimatedShipmentDate": "3 İş Gününde Kargoda",
         "priceUpdateDate": "18-04-2024"
       }
+}
