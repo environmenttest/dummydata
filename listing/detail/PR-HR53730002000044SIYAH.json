@@ -1,4 +1,7 @@
- {
+{
+  "code": 200,
+  "message": null,
+  "data": {
         "productId": "PR-HR53730002000044SIYAH",
         "name": "adidas Omuz Çantası HR5373",
         "image": "https://img-ozdilekteyim.mncdn.com/medias/4066751837360.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8OTEyMzA1fGltYWdlL2pwZWd8YURCaEwyZ3paQzg1T0RFMk1EUTVPREV4TkRnMnw5MmRjOWY3YmQ1NDIwYWEwMDFkZmNkNmU1M2YzMzRiNWRmNTFlNDYyOWNiMGMzMjExNjk4MmEwNzEzYzQ1OWQ3",
@@ -7,3 +10,4 @@
         "estimatedShipmentDate": "3 İş Gününde Kargoda",
         "priceUpdateDate": "29-06-2024"
       }
+   }
