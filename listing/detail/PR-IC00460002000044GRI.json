@@ -1,4 +1,7 @@
- {
+{
+  "code": 200,
+  "message": null,
+  "data": {
         "productId": "PR-IC00460002000044GRI",
         "name": "adidas Erkek Pantolon IC0046",
         "image": "https://img-ozdilekteyim.mncdn.com/medias/4066745355146.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NzgzMDEwfGltYWdlL2pwZWd8YURabUwyaG1OaTg1T1Rnek5qQTNNalF5TnpneXwzOTMxNmMxM2RkMTRhZDI5YzA1YWQ2NjcxYzUwYmZkZjlkNjY2MzNjMDg4ZmVmZGU2N2ZjZGE3Mzg5NjJkZGQ4",
@@ -7,3 +10,4 @@
         "estimatedShipmentDate": "3 İş Gününde Kargoda",
         "priceUpdateDate": "11-08-2023"
       }
+   }
