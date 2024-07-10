@@ -1,4 +1,7 @@
  {
+  "code": 200,
+  "message": null,
+  "data": {
         "productId": "PR-HN10490002000043SIYAH-BEYAZ",
         "name": "adidas Kadın Tişört HN1049",
         "image": "https://img-ozdilekteyim.mncdn.com/mnresize/337/506/medias/4065429173786.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8ODU0ODQ3fGltYWdlL2pwZWd8YURCa0wyZzJaaTg1TmpJNU1qWXlOemMwTXpBeXwxNDJjOGVkN2IzYjg0NTk5ZWM5YzUwNDMzMWFjMTRlZmU5MTQ5MjY3OTE4OGQzNDc1ODc2MzFjYzY5MDg4ZTg1",
@@ -7,3 +10,4 @@
         "estimatedShipmentDate": "3 İş Gününde Kargoda",
         "priceUpdateDate": "28-12-2023"
       }
+}
