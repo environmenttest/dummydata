@@ -9,27 +9,33 @@
     "products": [
       {
         "productId": "PR-IP16520002000044BEYAZ",
-        "name": "adidas Futbol Topu IP1652",
-        "image": "https://img-ozdilekteyim.mncdn.com/mnresize/337/506/medias/4067886881860.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8Mzg4MDg3fGltYWdlL2pwZWd8YURRM0wyZ3haQzh4TURNd01URTJNVFV6TnpVMk5nfGJkMzFhZWJhNzdjZjJjZTcxZDBiMTQ4MmEzOTQ0NWViNDA2Njk3YTQwNDUwY2UzZjFkMmNmNGU2NDgwNDExYTM",
-        "price": "749,00 TL"
+        "name": "adidas Erkek Tişört IP1652",
+        "image": "https://raw.githubusercontent.com/environmenttest/dummydata/main/images/PR-IP16520002000044BEYAZ.webp",
+        "price": "1.199,00 TL"
       },
       {
         "productId": "PR-IN93310002000044SARI",
-        "name": "adidas Futbol Topu IN9331",
-        "image": "https://img-ozdilekteyim.mncdn.com/mnresize/337/506/medias/4067886889514.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTEyMDgyMXxpbWFnZS9qcGVnfGFEVmhMMmcxTlM4eE1ERTFPVGswTkRBME1EUTNPQXwzYzU5YTJlOGZkZGJkM2ZmZmY1NGIwM2I0MWI5NTNmZmJjZWY3ZmYwMzFhMGFjYTY5Mzg2M2E4Y2I5OGFiY2Iw",
-        "price": "919,00 TL"
+        "name": "adidas Kadın Tişört IN9331",
+        "image": "https://raw.githubusercontent.com/environmenttest/dummydata/main/images/PR-IN93310002000044SARI.webp",
+        "price": "999,00 TL"
       },
       {
         "productId": "PR-IM10430002000044KIRMIZI",
-        "name": "adidas Çocuk Bone IM1043",
-        "image": "https://img-ozdilekteyim.mncdn.com/mnresize/337/506/medias/4066763707965.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NTg3Mzc5fGltYWdlL2pwZWd8YUdJeEwyaGlNeTh4TURFMk1EQXpOalEzT1RBd05nfDE4M2NhMDdmYWIxZWVmOGQzMDdhZmY1OTI2ODQ0ZDU3ZjU2N2YwMWM0ZWM4MmY2MzM5ODExMTI4NDE4NTY1ZTM",
-        "price": "449,00 TL"
+        "name": "adidas Kadın Tayt IM1043",
+        "image": "https://raw.githubusercontent.com/environmenttest/dummydata/main/images/PR-IM10430002000044KIRMIZI.webp",
+        "price": "799,00 TL"
       },
       {
         "productId": "PR-IK96590002000044SIYAH",
-        "name": "adidas Yüzücü Gözlüğü IK9659",
-        "image": "https://img-ozdilekteyim.mncdn.com/mnresize/337/506/medias/4067886139701.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MjkxNzU2fGltYWdlL2pwZWd8YUdZMEwyZzVZUzh4TURFMk1EQTVPVE01TXpVMk5nfDU0MGY0ZTg3ODc1MzZkNTM3ZjhlOTU4ZWYwMDkwZjU3MDMwMjIzYmM1YzQwY2U2OTI0M2JlZWRiNTUwYzc0NDI",
-        "price": "919,00 TL"
+        "name": "adidas Erkek Tişört IK9659",
+        "image": "https://raw.githubusercontent.com/environmenttest/dummydata/main/images/PR-IK96590002000044SIYAH.webp",
+        "price": "699,00 TL"
+      },
+      {
+        "productId": "PR-IN93720002000044BEYAZ",
+        "name": "adidas Erkek Tişört IN9372",
+        "image": "https://raw.githubusercontent.com/environmenttest/dummydata/main/images/PR-IN93720002000044BEYAZ.webp",
+        "price": "899,00 TL"
       }
     ]
   }
